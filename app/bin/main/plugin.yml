@@ -1,0 +1,9 @@
+name: StonePlugin
+main: io.github.barkshihun.App
+version: 1.0
+api-version: 1.18
+commands:
+  stone:
+    description: 암석에 대해 알려주는 커맨드
+    usage: /stone <암석>(화강암|섬록암|안산암|응회암|기반암|사암|현무암)
+    aliases: [stone]
